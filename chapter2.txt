@@ -2,4 +2,6 @@ git init :-  to initialize git repositery.
 git add chapter1.txt  :- to add chapter1.txt in gut local repositery
 git commi -m "first commit"  :- to commmit (add)  file to git repositery.
 git log : -  to see at what time commit done
-git status :-  to see which files are not add in git Local reositery
+git status :-  to see which files are not add in git Local reositery.
+git deff chapter3.txt  :-   this will show differences which take places in chaoter3.txt after commit
+git checkout chaoter3.txt :- this will make the file chapter3.txt as it was at the time of last commit 
