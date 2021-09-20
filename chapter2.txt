@@ -1,0 +1,5 @@
+git init :-  to initialize git repositery.
+git add chapter1.txt  :- to add chapter1.txt in gut local repositery
+git commi -m "first commit"  :- to commmit (add)  file to git repositery.
+git log : -  to see at what time commit done
+git status :-  to see which files are not add in git Local reositery
