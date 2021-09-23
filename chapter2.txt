@@ -7,4 +7,5 @@ git deff chapter3.txt  :-   this will show differences which take places in chao
 git checkout chaoter3.txt :- this will make the file chapter3.txt as it was at the time of last commit 
 git rm --cached -r   :- To remove alll file from stages Area.
 git clone https://github.com/yangshun/2048-python.git  :- Download project from remote repositery to your local disk
+git branch moin :- to make new branch named as moin
  
