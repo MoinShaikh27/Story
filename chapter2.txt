@@ -8,4 +8,4 @@ git checkout chaoter3.txt :- this will make the file chapter3.txt as it was at t
 git rm --cached -r   :- To remove alll file from stages Area.
 git clone https://github.com/yangshun/2048-python.git  :- Download project from remote repositery to your local disk
 git branch moin :- to make new branch named as moin
- 
+git merge moin:- will merge moin to master branch
